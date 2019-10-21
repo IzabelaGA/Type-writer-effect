@@ -41,6 +41,13 @@ h2 {
     color: #aaa;
 }
 
+/* Cursor */
+.txt-type >.txt{
+    border-right: .1rem solid #777;
+    padding: 0 .1rem;
+}
+
+
 @media(min-width: 1200px) {
     h1 {
         font-size: 5rem;
